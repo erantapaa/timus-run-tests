@@ -1,0 +1,7 @@
+.sw?
+dist
+cabal.sandbox.config
+.cabal-sandbox
+sample
+!sample/*.hs
+!sample/in-*
